@@ -45,4 +45,4 @@ X is NOT equal to Y
 
 
 ## Result
-the programme was implemented and executed
+the program was implemented and executed
