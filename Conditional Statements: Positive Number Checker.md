@@ -17,7 +17,7 @@ End the program.
 
 ## Program
 
-''''
+```
 #include <stdio.h>
 int main() {
     int A; 
@@ -30,7 +30,7 @@ int main() {
     }
     return 0;
 }
-''''
+```
 
 ## Output
 Sample Output 1:
