@@ -11,10 +11,39 @@ To write a C program to find the **quotient** of two integer numbers.
 5. Return 0 to indicate successful execution.
 
 ## Program
-Add code here
+```
+#include <stdio.h>
+int main() {
+    int a, b, quotient; 
+    printf("Enter the dividend (a): ");
+    scanf("%d", &a);
+    printf("Enter the divisor (b): ");
+    scanf("%d", &b);
+    if (b != 0) {
+        quotient = a / b;
+        printf("Dividend (a): %d\n", a);
+        printf("Divisor (b): %d\n", b);
+        printf("Quotient: %d\n", quotient);
+    } else {
+        printf("Error: Division by zero is not allowed.\n");
+    }
+    return 0;
+}
 
+``
 ## Output
+Sample Output 1:
+Enter the dividend (a): 20
+Enter the divisor (b): 4
+Dividend (a): 20
+Divisor (b): 4
+Quotient: 5
+Sample Output 2:
+Enter the dividend (a): 15
+Enter the divisor (b): 0
+Error: Division by zero is not allowed.
 
 ## Result
+Program was impelemented and executed.
 
     
