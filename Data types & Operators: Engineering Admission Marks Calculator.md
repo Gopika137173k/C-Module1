@@ -30,7 +30,7 @@ int main() {
     printf("Percentage = %.2f%%\n", percentage);
     return 0;
 }
-```
+``
 
 ## Output
 Sample Output 1
