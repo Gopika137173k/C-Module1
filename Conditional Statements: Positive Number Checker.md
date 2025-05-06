@@ -30,7 +30,7 @@ int main() {
     }
     return 0;
 }
-```
+``
 
 ## Output
 Sample Output 1:
