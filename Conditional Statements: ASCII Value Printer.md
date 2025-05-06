@@ -38,7 +38,7 @@ int main() {
 
     return 0;
 }
-```
+``
 
 ## Output
 Sample Output 1:
@@ -50,4 +50,4 @@ Please enter a valid alphabet character (a, z, A, or Z).
 
 
 ## Result
-programme was implemented and executed.
+program was implemented and executed.
